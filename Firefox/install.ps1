@@ -1,0 +1,1 @@
+.\Firefox_Setup_100.0.msi /quiet /norestart
